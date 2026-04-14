@@ -98,7 +98,19 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-<a href="https://github.com/2026-1-NADS1-B/Projeto3">Licença Messier</a> © 2026 by <a href="https://github.com/stephanyfelst">Stephany Felix, Italo Andrade, Luiz Marques, Yohann Curry</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<p>
+  © 2026 
+  <a href="https://github.com/stephanyfelst">
+    Stephany Felix, Italo Andrade, Luiz Marques, Yohann Curry
+  </a>.
+  Este projeto está licenciado sob 
+  <a href="https://creativecommons.org/licenses/by/4.0/">
+    Creative Commons Attribution 4.0 International (CC BY 4.0)
+  </a>.
+  <br>
+  <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" style="height:1em;">
+  <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" style="height:1em;">
+</p>
 
 ## 🎓 Referências
 
