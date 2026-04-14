@@ -10,6 +10,7 @@
 ## Grupo 3
 
 ## Integrantes: Yohann Correia Cury, Stephany Felix, Italo de Andrade Goes, Luiz Felipe Marques Gomes
+## Ra: 25028106, 26029131, 26028878, 26029131
 
 ## Professores Orientadores: 
 <p>
@@ -39,29 +40,27 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Projeto
+
+O sistema proposto visa o gerenciamento de assinaturas de jogos digitais para instituições de ensino, permitindo o cadastro de escolas, planos de assinatura, jogos e endereços IP autorizados. O acesso aos jogos é validado com base no plano ativo da escola e na verificação do IP de origem, garantindo segurança e conformidade com as regras de uso!
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+-Raiz
+|
+|-->documentos
+ |--> Entrega 1
+ |-->Algoritmos e Lógica de Programação 
+ |--> BD (Banco de Dados)
+ |-->Modelagem de Software
+ |-->Redes de Computadores
+ |-->Regras em Lógica
+|-->imagens
+ |-->logo.png
+|-->src
+|readme.md
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
@@ -120,7 +119,7 @@ Coloque código do prompt de comnando se for necessário
 <p>
   © 2026 
   <a href="https://github.com/stephanyfelst">
-    Stephany Felix, Italo Andrade, Luiz Marques, Yohann Curry
+    Stephany Felix, Italo de Andrade, Luiz Marques, Yohann Curry
   </a>.
   Este projeto está licenciado sob 
   <a href="https://creativecommons.org/licenses/by/4.0/">
@@ -136,3 +135,4 @@ Coloque código do prompt de comnando se for necessário
 Aqui estão as referências usadas no projeto.
 
 1. <https://github.com/fecaphub/Template_PI>
+2. <https://www.toptal.com/developers/gitignore>
