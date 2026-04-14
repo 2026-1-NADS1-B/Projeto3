@@ -11,7 +11,7 @@
 
 ## Integrantes: Yohann Correia Cury, Stephany Felix, Italo de Andrade Goes, Luiz Felipe Marques Gomes
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <https://www.linkedin.com/in/francisco-escobar/>, <https://www.linkedin.com/in/remuniz/>, <https://www.linkedin.com/in/katia-bossi/>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <https://www.linkedin.com/in/francisco-escobar/>, <https://www.linkedin.com/in/remuniz/>, <https://www.linkedin.com/in/katia-bossi/>, <https://www.linkedin.com/in/robsoncardoso1975/>
 ## Descrição
 
 <p align="center">
