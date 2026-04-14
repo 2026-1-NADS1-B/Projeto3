@@ -11,7 +11,26 @@
 
 ## Integrantes: Yohann Correia Cury, Stephany Felix, Italo de Andrade Goes, Luiz Felipe Marques Gomes
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">, <a>https://www.linkedin.com/in/francisco-escobar/>, <https://www.linkedin.com/in/remuniz/>, <https://www.linkedin.com/in/katia-bossi/>, <https://www.linkedin.com/in/robsoncardoso1975/>
+## Professores Orientadores: 
+<p>
+  Professores:
+  <a href="https://www.linkedin.com/in/victorbarq/" target="_blank">
+    Victor Barq
+  </a>, 
+  <a href="https://www.linkedin.com/in/francisco-escobar/" target="_blank">
+    Francisco Escobar
+  </a>, 
+  <a href="https://www.linkedin.com/in/remuniz/" target="_blank">
+    Reinaldo Muniz
+  </a>, 
+  <a href="https://www.linkedin.com/in/katia-bossi/" target="_blank">
+    Katia Bossi
+  </a>, 
+  <a href="https://www.linkedin.com/in/robsoncardoso1975/" target="_blank">
+    Robson Cardoso
+  </a>
+</p>
+
 ## Descrição
 
 <p align="center">
