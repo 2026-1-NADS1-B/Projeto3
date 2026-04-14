@@ -1,8 +1,3 @@
-```sh
-Utilize o site <https://www.toptal.com/developers/gitignore> para gerar seu arquivo gitignore e apague este campo.
-
-Vide tutoriais do PI.
-```
 
 # FECAP - Fundação de Comércio Álvares Penteado
 
@@ -16,7 +11,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: Yohann Correia Cury, Stephany Felix, Italo de Andrade Goes, Luiz Felipe Marques Gomes
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <https://www.linkedin.com/in/francisco-escobar/>, <https://www.linkedin.com/in/remuniz/>, <https://www.linkedin.com/in/katia-bossi/>, <https: //linkedin.com/in/robsoncardoso1975?trk=people-search-result/>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <https://www.linkedin.com/in/francisco-escobar/>, <https://www.linkedin.com/in/remuniz/>, <https://www.linkedin.com/in/katia-bossi/>
 ## Descrição
 
 <p align="center">
