@@ -1,1 +1,75 @@
-.
+CREATE DATABASE Messier;
+
+USE Messier;
+
+
+-- TABELA PACOTE
+CREATE TABLE Pacote (
+    ID_Pacote INT AUTO_INCREMENT PRIMARY KEY,
+    Nome VARCHAR(100) NOT NULL,
+    LimiteMensal INT NOT NULL,
+    Preco DECIMAL(10,2) NOT NULL
+);
+
+
+-- TABELA ESCOLA
+CREATE TABLE Escola (
+    ID_Escola INT AUTO_INCREMENT PRIMARY KEY,
+    Nome VARCHAR(100) NOT NULL,
+    CNPJ VARCHAR(30) NOT NULL,
+    Ativo BOOLEAN NOT NULL,
+    PacoteID INT,
+
+  CONSTRAINT FK_Escola_Pacote
+    FOREIGN KEY (PacoteID)
+    REFERENCES Pacote(ID_Pacote)
+);
+
+
+-- TABELA GAME
+CREATE TABLE Game (
+    ID_Game INT AUTO_INCREMENT PRIMARY KEY,
+    Nome VARCHAR(100) NOT NULL,
+    Descricao TEXT,
+    Ativo BOOLEAN NOT NULL
+);
+
+
+-- TABELA IP AUTORIZADO
+CREATE TABLE IP_autorizado (
+    ID_IP INT AUTO_INCREMENT PRIMARY KEY,
+    EscolaID INT NOT NULL,
+    IP VARCHAR(45) NOT NULL,
+
+  CONSTRAINT FK_IP_Escola
+    FOREIGN KEY (EscolaID)
+    REFERENCES Escola(ID_Escola)
+);
+
+
+-- TABELA LOG DE ACESSO
+CREATE TABLE LOG_acesso (
+    ID_LOG INT AUTO_INCREMENT PRIMARY KEY,
+    EscolaID INT NOT NULL,
+    GameID INT NOT NULL,
+    DataHora DATETIME NOT NULL,
+    IP VARCHAR(45) NOT NULL,
+    Permitido BOOLEAN NOT NULL,
+
+  CONSTRAINT FK_Log_Escola
+    FOREIGN KEY (EscolaID)
+    REFERENCES Escola(ID_Escola),
+
+  CONSTRAINT FK_Log_Game
+    FOREIGN KEY (GameID)
+    REFERENCES Game(ID_Game)
+);
+
+
+-- INSERTS PACOTE
+INSERT INTO Pacote (Nome, Preco, LimiteMensal)
+VALUES
+('Basico', 29.90, 100),
+('Intermediario', 49.90, 300),
+('Premium', 79.90, 700);
+
