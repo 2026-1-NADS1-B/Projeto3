@@ -136,3 +136,5 @@ Aqui estão as referências usadas no projeto.
 
 1. <https://github.com/fecaphub/Template_PI>
 2. <https://www.toptal.com/developers/gitignore>
+
+Banco de Dados: https://github.com/2026-1-NADS1-B/Projeto3/blob/3ebe5beee1e20afd1bc6ce21bfbb49c9d99c2324/documentos/Entrega%202/BD/REAMDE.md
