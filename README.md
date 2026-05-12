@@ -22,7 +22,7 @@
     Francisco Escobar
   </a>, 
   <a href="https://www.linkedin.com/in/remuniz/" target="_blank">
-    Reinaldo Muniz
+    Renata Muniz
   </a>, 
   <a href="https://www.linkedin.com/in/katia-bossi/" target="_blank">
     Katia Bossi
